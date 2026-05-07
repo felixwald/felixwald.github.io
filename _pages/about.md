@@ -15,7 +15,7 @@ My latest work revolves around asynchronous grid connections (e.g., Solid-State 
 You can find more details here [publications](/publications/).
 I have a background in power electronics, with the aim to bridge the gap between power electronics and power systems, which I see as one of the major challenges of the future power system.
 
-Aside from my research I love building and developing things and systems, such as our research group [knowledge base (MediaWiki)](https://wiki.itep.kit.edu) or laboratory automation tools. 
+Aside from my research I love building and developing things and systems, such as our research group [knowledge base (MediaWiki)](https://www.mediawiki.org/) or laboratory automation tools. 
 
 If you want to connect, feel free to get in touch — [felix.wald@kit.edu](mailto:felix.wald@kit.edu).
 
