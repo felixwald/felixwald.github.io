@@ -9,56 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Profile
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Felix Wald is a research associate and PhD candidate at KIT working on future power systems, inverter-based resources, and the role of solid-state transformers in converter-dominated grids.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Current role
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Research Associate and PhD Candidate**, Karlsruhe Institute of Technology (KIT)
+- **Research group:** [Real-time Systems for Energy Technologies](https://www.itep.kit.edu/rtset/english/index.php)
+- **Location:** Karlsruhe, Germany
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Research interests
+
+- Power-system dynamics in renewable-rich grids
+- Integration of inverter-based resources
+- Solid-state transformers for grid applications
+- Modeling, simulation, and analysis workflows for energy systems
+
+## External profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=N-l6y4MAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0001-5811-878X)
+- [LinkedIn](https://www.linkedin.com/in/felixwald/)
+- [GitHub](https://github.com/felixwald)
+- [Download PDF CV](/files/felix-wald-cv.pdf)
+
+## Publications
+
+{% if site.publications.size > 0 %}
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+{% else %}
+A curated publication list for the website is in preparation. In the meantime, please use the external profiles above for a complete record.
+{% endif %}
+
+## Selected project highlights
+
+- [Research projects](/portfolio/) covering converter-dominated grids, solid-state transformers, and engineering workflows
+- Additional materials and updates can be shared on request
+
+## Talks and teaching
+
+Recent talks, lectures, and teaching materials can be shared on request.
+
+## Contact
+
+Please get in touch via [email](mailto:felix.wald@kit.edu) or through [LinkedIn](https://www.linkedin.com/in/felixwald/).

@@ -1,25 +1,24 @@
 {
-  "name": "academic-pages",
+  "name": "felixwald.github.io",
   "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "description": "Build scripts for Felix Wald's Jekyll site",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://github.com/felixwald/felixwald.github.io"
   },
   "keywords": [
     "jekyll",
-    "theme",
-    "minimal"
+    "academic",
+    "cv"
   ],
   "contributors": [
-    "Michael Rose",
-    "Robert Zupko"
+    "Felix Wald"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/academicpages/academicpages.github.io/issues"
+    "url": "https://github.com/felixwald/felixwald.github.io/issues"
   },
-  "homepage": "https://github.com/academicpages/academicpages.github.io",
+  "homepage": "https://felixwald.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },
