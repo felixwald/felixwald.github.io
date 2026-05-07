@@ -27,10 +27,6 @@ Education
   [Siemens Technik Akademie](https://www.siemens.com/), Erlangen, 10/2014 – 09/2016  
   *Specialization: Drives and automation technology*
 
-* **A-Levels** — Grade: 2.6  
-  Helene Lange Gymnasium, Markgröningen, 09/2006 – 10/2013
-
-
 Theses
 ======
 
@@ -52,40 +48,48 @@ Theses
 Work Experience
 ======
 
-* **Team Lead and Contributor** · IEEE PES Task Force on SST integration in distribution grids, 08/2022 – present  
-  * Leading the team for SST services for distribution grids
+* **Chapter Lead** · [CIGRE Working Group B4.91](https://www.cigre.org/) — Power electronics-based transformer technology, design, grid integration and services provision to the distribution grid, 02/2024 – present
+  * Leading the team for the chapter on SST control concepts
 
-* **Research Associate** · [Institute for Technical Physics, KIT](https://www.itep.kit.edu/rtset/21_114.php), Karlsruhe, 02/2022 – present  
-  * PhD in electrical engineering
-  * Technical and economical analysis of Solid State Transformers
-  * Responsible for the real-time simulation part of the Digital Real-time Simulation Course (CHIL/PHIL lab)
-  * Teaching and project development for lab courses
-  * *Tools: OPAL-RT, Egston, Imperix, MATLAB/Simulink*
+* **Chapter Lead and Secretary** · [IEEE PES Task Force on Solid State Transformer integration in distribution grids](https://ieee-pes.org/), 08/2022 – present
+  * Leading the team for the chapter on SST services for distribution grids
+  * Coordinating contributions and international collaboration
 
-* **Student Research Assistant** · [Institute of Electrical Engineering, KIT](https://www.eti.kit.edu/), Karlsruhe, 05/2020 – 07/2021  
-  * Development of interfaces for in-house SoC converter platform
+* **Research Associate — PhD in Electrical Engineering** · [Institute for Technical Physics, KIT](https://www.itep.kit.edu/rtset/), Karlsruhe, 02/2022 – present
+  * Technical and economic analysis of Solid State Transformers
+  * Responsible for Power Hardware-in-the-Loop real-time operations
+  * Guidance of student assistants in projects for converter controls and simulation
+  * *Tools: OPAL-RT, Egston, Imperix, MATLAB/Simulink, Power Factory, Python*
+
+* **Collaborative Researcher** · [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/), Golden (CO), USA, 03/2024 – 08/2024
+  * Development of power system simulations with inverter-based technologies
+  * Experience working in a large-scale high-end research infrastructure
+  * Establishing international cooperation with NREL and the University of Colorado Boulder
+
+* **Student Research Assistant** · [Institute of Electrical Engineering, KIT](https://www.eti.kit.edu/), Karlsruhe, 05/2020 – 05/2021
+  * Developing interfaces for in-house SoC converter platforms
   * Implementation of drive and converter control algorithms
-  * Teaching assistance for the lab course: Electrical Drives and Power Electronics
+  * Teaching assistant for the lab course: Electrical Drives and Power Electronics
   * *Tools: FPGAs, C, VHDL, Matlab, Altium, Quartus, Vivado*
 
-* **Internship** · [Lewanzik und Hoffmann Ingenieure](https://www.ing-lh.de/), Berlin, 04/2018 – 06/2018  
+* **Internship** · [Lewanzik und Hoffmann Ingenieure](https://www.ing-lh.de/), Berlin, 04/2018 – 06/2018
   * Simulation and power estimation of solar power plants
   * Certification of renewable power plants
+  * Dimensioning of required equipment, including cable size, length, and converter rating
   * *Tools: PVSyst*
 
-* **Student Assistant** · [Institute for Clinical Physiology, Charité Berlin](https://klinphys.charite.de/), Berlin, 10/2017 – 03/2018  
-  * Repair of electrical appliances
+* **Student Assistant** · [Institute for Clinical Physiology, Charité Berlin](https://klinphys.charite.de/), Berlin, 10/2017 – 03/2018
+  * Repair of different electrical appliances
   * Development of a transepithelial resistance measuring device
 
-* **Internship** · [INP America Inc.](https://www.inp-e.com/), Alpharetta (GA), USA, 04/2016 – 09/2016  
-  * Production support for a press plant automation
-  * Robot optimization in a press line
+* **Internship** · [INP America Inc.](https://www.inp-e.com/inp-gruppe/strategische-partnerschaften/inp-nordamerika/), Alpharetta (GA), USA, 04/2016 – 09/2016
+  * Robot optimization and production support for a press plant automation
   * General on-site service for industrial automation customers
   * *Tools: PLC, Step7, TIA, SiMotion*
 
-* **Volunteer Social Year** · Handballverband Baden-Württemberg, Leonberg, 09/2013 – 06/2014  
+* **Volunteer Social Year** · [Handballverband Württemberg](https://www.bwhv.org/), Leonberg, 09/2013 – 06/2014
   * Training of youth handball teams
-  * Organisation and coordination of training camps and club activities
+  * Organise and coordinate training camps and club activities
 
 
 Publications
