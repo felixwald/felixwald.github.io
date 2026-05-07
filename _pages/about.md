@@ -1,12 +1,30 @@
 ---
 permalink: /
-title: "About me"
+title: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi! I am Felix a research associate pursuing my PhD at the Department of Electrical Engineering and Information Technology at the Karlsruhe Institute of Technology (KIT), Germany.
+Felix Wald is a research associate and PhD candidate at the Karlsruhe Institute of Technology (KIT), Germany. His work focuses on future power systems with high shares of renewable generation, inverter-based resources, and the grid integration of solid-state transformers.
 
-I am part of the research group [Real-time Systems for Energie Technologies](https://www.itep.kit.edu/rtset/english/index.php) based in the Institute for Technical Physics. My current research revolves around the future power grid with high amounts of renewables and the integration of inverter-based resources (IBRs). In particular I investigate the possible challenges and opportunities of integrating Solid-State Transformers (SST) into the power system. You can find more details at [publications](/publications/).
+He is part of the [Real-time Systems for Energy Technologies](https://www.itep.kit.edu/rtset/english/index.php) group at KIT's Institute for Technical Physics, where he works on control-oriented modeling, system-level analysis, and practical questions around resilient converter-dominated grids.
+
+## Focus areas
+
+- Future power systems with high renewable penetration
+- Inverter-based resources and grid-forming behavior
+- Solid-state transformers in power-system applications
+- Reproducible engineering workflows for simulation and analysis
+
+## Open to
+
+Felix is open to research collaborations, technical exchange, invited talks, and conversations with academic and industrial partners working on power-system transformation.
+
+## External profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=N-l6y4MAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0001-5811-878X)
+- [LinkedIn](https://www.linkedin.com/in/felixwald/)
+- [GitHub](https://github.com/felixwald)

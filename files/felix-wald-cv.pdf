@@ -1,0 +1,41 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >> endobj
+4 0 obj << /Length 673 >> stream
+BT
+/F1 12 Tf
+50 780 Td
+14 TL
+(Felix Wald) Tj
+T* (Research Associate and PhD Candidate, Karlsruhe Institute of Technology) Tj
+T* () Tj
+T* (Focus areas) Tj
+T* (- Future power systems with high renewable penetration) Tj
+T* (- Inverter-based resources and grid-forming behavior) Tj
+T* (- Solid-state transformers in power-system applications) Tj
+T* () Tj
+T* (Profiles) Tj
+T* (- Google Scholar: https://scholar.google.com/citations?user=N-l6y4MAAAAJ&hl=en) Tj
+T* (- ORCID: https://orcid.org/0000-0001-5811-878X) Tj
+T* (- LinkedIn: https://www.linkedin.com/in/felixwald/) Tj
+T* (- GitHub: https://github.com/felixwald) Tj
+T* () Tj
+T* (Contact) Tj
+T* (- felix.wald@kit.edu) Tj
+ET
+endstream
+endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000964 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+1034
+%%EOF

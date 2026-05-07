@@ -4,9 +4,13 @@ _site/
 # Ignore the directory for local files during development
 local/
 
-# Ignore the Gemfile that is generated
+# Ignore bundler artifacts generated during local preview
+.bundle/
+vendor/
+
+# Ignore the Gemfile lock that is generated
 Gemfile.lock
 
-# Ingore files created by npm
+# Ignore files created by npm
 node_modules
 package-lock.json
