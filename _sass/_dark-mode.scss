@@ -1,0 +1,226 @@
+/* ==========================================================================
+   DARK MODE — clean black & white, colored links only
+   Applied when <html data-theme="dark">
+   Defaults to OS preference; manual override stored in localStorage.
+   ========================================================================== */
+
+/* ---- Light mode base (explicit, so CSS vars work cleanly) ---- */
+:root {
+  --bg:           #ffffff;
+  --bg-secondary: #f8f8f8;
+  --text:         #1a1a1a;
+  --text-muted:   #555555;
+  --border:       #e0e0e0;
+  --link:         #1a6eb5;
+  --link-hover:   #0d4a7a;
+  --link-visited: #6a3d8f;
+  --nav-bg:       #ffffff;
+  --nav-text:     #1a1a1a;
+  --code-bg:      #f4f4f4;
+}
+
+/* ---- Dark mode overrides ---- */
+[data-theme="dark"] {
+  --bg:           #111111;
+  --bg-secondary: #1e1e1e;
+  --text:         #e8e8e8;
+  --text-muted:   #aaaaaa;
+  --border:       #333333;
+  --link:         #6db3f2;
+  --link-hover:   #9ecfff;
+  --link-visited: #c9a8ff;
+  --nav-bg:       #111111;
+  --nav-text:     #e8e8e8;
+  --code-bg:      #1e1e1e;
+}
+
+/* ---- Apply variables to elements ---- */
+html, body {
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+a {
+  color: var(--link);
+  &:hover  { color: var(--link-hover); }
+  &:visited { color: var(--link-visited); }
+}
+
+/* Masthead */
+.masthead {
+  background: var(--nav-bg) !important;
+  border-bottom-color: var(--border) !important;
+
+  a { color: var(--nav-text) !important; }
+}
+
+.greedy-nav {
+  background: var(--nav-bg) !important;
+
+  a {
+    color: var(--nav-text) !important;
+    &:hover { color: var(--link) !important; }
+  }
+
+  button {
+    background-color: var(--border) !important;
+    color: var(--text) !important;
+  }
+
+  .hidden-links {
+    background: var(--nav-bg) !important;
+    border-color: var(--border) !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+
+    a { color: var(--nav-text) !important; }
+    li { border-bottom-color: var(--border) !important; }
+  }
+}
+
+/* Page & content */
+.page__content,
+.archive,
+.page,
+.sidebar {
+  background-color: var(--bg);
+  color: var(--text);
+
+  h1, h2, h3, h4, h5, h6 { color: var(--text); }
+
+  p, li, td, th { color: var(--text); }
+
+  a {
+    color: var(--link);
+    &:hover  { color: var(--link-hover); }
+    &:visited { color: var(--link-visited); }
+  }
+
+  hr { border-color: var(--border); }
+}
+
+/* Footer */
+.page__footer {
+  background: var(--bg-secondary) !important;
+  color: var(--text-muted) !important;
+  border-top: 1px solid var(--border);
+
+  a { color: var(--link) !important; }
+}
+
+/* Code */
+pre, code {
+  background: var(--code-bg) !important;
+  color: var(--text) !important;
+  border-color: var(--border) !important;
+}
+
+.highlight {
+  background: var(--code-bg) !important;
+}
+
+/* Tables */
+table {
+  background: var(--bg);
+  color: var(--text);
+
+  th {
+    background: var(--bg-secondary);
+    color: var(--text);
+    border-color: var(--border);
+  }
+
+  td { border-color: var(--border); }
+  tr:nth-child(even) { background: var(--bg-secondary); }
+}
+
+/* TOC */
+.toc {
+  background: var(--bg-secondary) !important;
+  border-color: var(--border) !important;
+
+  .nav__title {
+    background: var(--bg-secondary) !important;
+    color: var(--text) !important;
+    border-bottom: 1px solid var(--border);
+  }
+
+  a {
+    color: var(--link) !important;
+    &:hover { color: var(--link-hover) !important; }
+  }
+}
+
+/* Notices */
+.notice, .notice--primary, .notice--info,
+.notice--warning, .notice--danger, .notice--success {
+  background: var(--bg-secondary) !important;
+  color: var(--text) !important;
+  border-color: var(--border) !important;
+}
+
+/* Forms */
+input, textarea, select {
+  background: var(--bg-secondary) !important;
+  color: var(--text) !important;
+  border-color: var(--border) !important;
+}
+
+/* Sidebar author links */
+.author__urls-wrapper button {
+  background: var(--bg-secondary) !important;
+  color: var(--text) !important;
+  border-color: var(--border) !important;
+}
+
+.author__urls {
+  background: var(--bg-secondary) !important;
+  border-color: var(--border) !important;
+}
+
+/* Sidebar & nav links: plain text, no color */
+.sidebar a,
+.author__urls a,
+.author__name,
+.greedy-nav .visible-links a,
+.nav__list a,
+.page__footer a {
+  color: var(--nav-text) !important;
+  &:hover { color: var(--text-muted) !important; text-decoration: underline; }
+  &:visited { color: var(--nav-text) !important; }
+}
+
+
+/* ==========================================================================
+   THEME TOGGLE BUTTON
+   Always visible, floated to the right of the masthead inner wrap.
+   ========================================================================== */
+
+.masthead__inner-wrap {
+  display: flex !important;
+  align-items: center;
+}
+
+.masthead__menu {
+  flex: 1;
+}
+
+.theme-toggle {
+  flex-shrink: 0;
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 1rem;
+  padding: 0.2em 0.6em;
+  line-height: 1.6;
+  color: var(--text);
+  transition: border-color 0.2s ease, background 0.2s ease;
+  white-space: nowrap;
+
+  &:hover {
+    background: var(--bg-secondary);
+    border-color: var(--text-muted);
+  }
+
+  &:focus { outline: none; }
+}

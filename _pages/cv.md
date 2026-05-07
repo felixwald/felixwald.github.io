@@ -11,54 +11,108 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+* **M.Sc., Electrical Engineering and Information Technology** — Grade: 1.6  
+  [Karlsruhe Institute of Technology (KIT)](http://www.kit.edu/), Karlsruhe, 04/2019 – 12/2021  
+  *Specialization: Electrical drives and power electronics*
+
+* **B.Eng., Electrical Engineering** — Grade: 2.0  
+  [Berliner Hochschule für Technik (BHT)](https://www.bht-berlin.de/), Berlin, 10/2016 – 03/2019  
+  *Specialization: Energy and drives technology*
+
+* **Associate Engineer, Automation** — Grade: 2.1  
+  [Siemens Technik Akademie](https://www.siemens.com/), Erlangen, 10/2014 – 09/2016  
+  *Specialization: Drives and automation technology*
+
+* **A-Levels** — Grade: 2.6  
+  Helene Lange Gymnasium, Markgröningen, 09/2006 – 10/2013
+
+
+Theses
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Master Thesis** — Grade: 1.0  
+  *Controller Hardware-in-the-Loop and Power Hardware-in-the-Loop Testing of a Virtual Synchronous Machine for Asynchronously Connected Grids*  
+  [Energy Lab 2.0 – KIT, Karlsruhe](https://www.itep.kit.edu/rtset/english/index.php), 05/2021 – 12/2021  
+  Tools: Matlab/Simulink, LaTeX, Opal-RT, Imperix
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* **Bachelor Thesis** — Grade: 1.0  
+  *Two elevator drive synchronization control with µControllers*  
+  [BHT, Berlin](https://www.bht-berlin.de/), 11/2018 – 02/2019  
+  Tools: Raspberry Pi, Arduino, C, Python, Eagle
+
+
+Work Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* **Team Lead and Contributor** · IEEE PES Task Force on SST integration in distribution grids, 08/2022 – present  
+  * Leading the team for SST services for distribution grids
+
+* **Research Associate** · [Institute for Technical Physics, KIT](https://www.itep.kit.edu/rtset/21_114.php), Karlsruhe, 02/2022 – present  
+  * PhD in electrical engineering
+  * Technical and economical analysis of Solid State Transformers
+  * Responsible for the real-time simulation part of the Power Hardware-in-the-Loop laboratory
+  * Teaching and project development for lab courses
+  * *Tools: OPAL-RT, Egston, Imperix, MATLAB/Simulink*
+
+* **Student Research Assistant** · [Institute of Electrical Engineering, KIT](https://www.eti.kit.edu/), Karlsruhe, 05/2020 – 07/2021  
+  * Development of interfaces for in-house SoC converter platform
+  * Implementation of drive and converter control algorithms
+  * Teaching assistance for the lab course: Electrical Drives and Power Electronics
+  * *Tools: FPGAs, C, VHDL, Matlab, Altium, Quartus, Vivado*
+
+* **Internship** · [Lewanzik und Hoffmann Ingenieure](https://www.ing-lh.de/), Berlin, 04/2018 – 06/2018  
+  * Simulation and power estimation of solar power plants
+  * Certification of renewable power plants
+  * *Tools: PVSyst*
+
+* **Student Assistant** · [Institute for Clinical Physiology, Charité Berlin](https://klinphys.charite.de/), Berlin, 10/2017 – 03/2018  
+  * Repair of electrical appliances
+  * Development of a transepithelial resistance measuring device
+
+* **Internship** · [INP America Inc.](https://www.inp-e.com/), Alpharetta (GA), USA, 04/2016 – 09/2016  
+  * Production support for a press plant automation
+  * Robot optimization in a press line
+  * General on-site service for industrial automation customers
+  * *Tools: PLC, Step7, TIA, SiMotion*
+
+* **Volunteer Social Year** · Handballverband Baden-Württemberg, Leonberg, 09/2013 – 06/2014  
+  * Training of youth handball teams
+  * Organisation and coordination of training camps and club activities
+
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+
+**Programming:** C, Python, LaTeX, Markdown, HTML/CSS/Django, VHDL, AHDL, SPS
+
+**Simulation:** DigSilent Power Factory, Matlab/Simulink, ModelSim, PVSyst, RT-Lab
+
+**Circuit Design & FPGA:** Vivado, Quartus, Altium, Eagle
+
+**Additional Tools:** Git, MS Office, Linux, Docker
+
+
+Languages
+======
+
+| Language | Level |
+|---|---|
+| German | Native |
+| English | Fluent (C2) |
+| French | Beginner |
+| Spanish | Beginner |
