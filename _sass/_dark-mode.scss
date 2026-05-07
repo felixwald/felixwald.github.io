@@ -188,6 +188,17 @@ input, textarea, select {
   background: var(--bg) !important;
 }
 
+/* Force avatar to a perfect circle regardless of image aspect ratio */
+.author__avatar img {
+  display: block;
+  width: 175px !important;
+  height: 175px !important;
+  max-width: 175px !important;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 50% !important;
+}
+
 /* Sidebar social icons — override hardcoded #000 */
 .social-icons .fa,
 .social-icons .fa-solid,
