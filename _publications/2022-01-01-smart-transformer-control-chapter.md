@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-smart-transformer-control-chapter
 date: 2022-01-01
 venue: 'Advances in Power System Modelling, Control and Stability Analysis (IET Book, F. Milano Ed.), pp. 451–471'
-paperurl: 'https://doi.org/10.1049/PBPO171E_ch17'
+paperurl: 'https://doi.org/10.1049/pbpo217e_ch13'
 citation: 'G. De Carne, M. Liserre, and F. Wald, "Smart transformer control of the electrical grid," in <i>Advances in Power System Modelling, Control and Stability Analysis</i>, F. Milano, Ed. Institution of Engineering and Technology, 2022, pp. 451–471. doi: 10.1049/PBPO171E_ch17'
 ---
 

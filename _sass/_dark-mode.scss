@@ -167,14 +167,32 @@ input, textarea, select {
 
 /* Sidebar author links */
 .author__urls-wrapper button {
-  background: var(--bg-secondary) !important;
+  background: var(--bg) !important;
   color: var(--text) !important;
   border-color: var(--border) !important;
 }
 
 .author__urls {
-  background: var(--bg-secondary) !important;
+  background: var(--bg) !important;
   border-color: var(--border) !important;
+}
+
+/* Remove gray background from sidebar link area */
+.sidebar {
+  background: var(--bg) !important;
+}
+
+.author__content,
+.author__bio,
+.author__urls-wrapper {
+  background: var(--bg) !important;
+}
+
+/* Sidebar social icons — override hardcoded #000 */
+.social-icons .fa,
+.social-icons .fa-solid,
+.social-icons .fas {
+  color: var(--text) !important;
 }
 
 /* Sidebar & nav links: plain text, no color */

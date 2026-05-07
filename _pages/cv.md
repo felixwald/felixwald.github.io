@@ -12,6 +12,9 @@ redirect_from:
 Education
 ======
 
+* **Dr.-Ing. (PhD), Electrical Engineering** — *summa cum laude*  
+  [Karlsruhe Institute of Technology (KIT)](http://www.kit.edu/), Karlsruhe, 02/2022 – 2026
+
 * **M.Sc., Electrical Engineering and Information Technology** — Grade: 1.6  
   [Karlsruhe Institute of Technology (KIT)](http://www.kit.edu/), Karlsruhe, 04/2019 – 12/2021  
   *Specialization: Electrical drives and power electronics*
@@ -30,6 +33,10 @@ Education
 
 Theses
 ======
+
+* **PhD Dissertation** — *summa cum laude*  
+  *Asynchronous Grid Connections as Distribution Grid Interfaces: Control, Services, and Economic Viability*  
+  [Institute for Technical Physics, KIT, Karlsruhe](https://www.itep.kit.edu/rtset/english/index.php), 2022 – 2026 *(publication pending)*
 
 * **Master Thesis** — Grade: 1.0  
   *Controller Hardware-in-the-Loop and Power Hardware-in-the-Loop Testing of a Virtual Synchronous Machine for Asynchronously Connected Grids*  
@@ -51,7 +58,7 @@ Work Experience
 * **Research Associate** · [Institute for Technical Physics, KIT](https://www.itep.kit.edu/rtset/21_114.php), Karlsruhe, 02/2022 – present  
   * PhD in electrical engineering
   * Technical and economical analysis of Solid State Transformers
-  * Responsible for the real-time simulation part of the Power Hardware-in-the-Loop laboratory
+  * Responsible for the real-time simulation part of the Digital Real-time Simulation Course (CHIL/PHIL lab)
   * Teaching and project development for lab courses
   * *Tools: OPAL-RT, Egston, Imperix, MATLAB/Simulink*
 
@@ -95,6 +102,7 @@ Teaching
   {% endfor %}</ul>
 
 
+<!-- 
 Skills
 ======
 
@@ -116,3 +124,4 @@ Languages
 | English | Fluent (C2) |
 | French | Beginner |
 | Spanish | Beginner |
+ -->
