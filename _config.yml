@@ -27,7 +27,7 @@ author:
   bio              : "Electrical Engineering · KIT" # Dr.-Ing. pending thesis publication
   location         : "Karlsruhe, Germany"
   employer         : "Karlsruhe Institute of Technology"
-  uri              : "https://felixwald.github.io"
+  uri              : # "https://felixwald.github.io"
   email            : "felix.wald@kit.edu" 
 
   # Academic websites
