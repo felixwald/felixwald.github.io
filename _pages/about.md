@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: ""
+title: "Felix Wald — Electrical Engineering Research at KIT"
+excerpt: "Personal website of Felix Wald, Dr.-Ing. in Electrical Engineering at KIT. Research on Solid-State Transformers, asynchronous grid connections, and power system integration."
 author_profile: true
 redirect_from: 
   - /about/
