@@ -2,12 +2,12 @@
 title: "Adaptive Virtual Synchronous Machine Control for Asynchronous Grid Connections"
 collection: talks
 type: "Conference presentation"
-permalink: /talks/2022-06-26-ecce-asia-vsm
-venue: "IEEE ECCE Asia (9th IEEE International Power Electronics and Motion Control Conference, IPEMC-ECCE Asia)"
-date: 2022-06-26
-location: "Nanjing, China"
+permalink: /talks/2023-05-22-ecce-asia-vsm
+venue: "2023 11th International Conference on Power Electronics and ECCE Asia (ICPE 2023-ECCE Asia)"
+date: 2023-05-22
+location: "Jeju Island, South Korea"
 ---
 
-Conference presentation based on the work on Virtual Synchronous Machine (VSM) control for asynchronous grid connections. The talk covered adaptive VSM control strategies enabling grid-forming inverters to connect two asynchronous AC grids via a back-to-back converter, providing inertia emulation, frequency droop, and damping without a phase-locked loop.
+Conference presentation of the paper on adaptive Virtual Synchronous Machine (VSM) control for asynchronous grid connections. The talk presented a frequency-based active power controller for back-to-back converters with adaptive power set point calculation, providing fast frequency support to the MV grid while limiting impact on the LV distribution grid. Validation was demonstrated via a Controller Hardware-in-the-Loop (CHIL) setup combined with a mathematical power system model.
 
-Related publication: [Virtual Synchronous Machine Control for Asynchronous Grid Connections](https://doi.org/10.1109/TPWRD.2023.3235149), *IEEE Transactions on Power Delivery*, Vol. 39, No. 1, 2024.
+Related publication: [Adaptive Virtual Synchronous Machine Control for Asynchronous Grid Connections](/publication/2023-ecce-asia-adaptive-vsm), *ICPE 2023-ECCE Asia*, pp. 991–996.
