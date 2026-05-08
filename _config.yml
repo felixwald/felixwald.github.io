@@ -24,7 +24,7 @@ author:
   avatar           : "IEEE_Portrait_pic.png"
   name             : "Felix Wald"
   pronouns         : # example: "she/her"  
-  bio              : "Dr.-Ing., Electrical Engineering · KIT"
+  bio              : "Electrical Engineering · KIT" # Dr.-Ing. pending thesis publication
   location         : "Karlsruhe, Germany"
   employer         : "Karlsruhe Institute of Technology"
   uri              : "https://felixwald.github.io"
