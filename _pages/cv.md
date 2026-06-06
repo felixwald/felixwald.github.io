@@ -33,7 +33,7 @@ Theses
 * **PhD Dissertation** — *summa cum laude*  
   *Asynchronous Grid Connections as Distribution Grid Interfaces: Control, Services, and Economic Viability*  
   [Institute for Technical Physics, KIT, Karlsruhe](https://www.itep.kit.edu/rtset/english/index.php), 2022 – 2026
-  Link to the published [Thesis](https://publikationen.bibliothek.kit.edu/1000193211).
+  * Link to the published [Thesis](https://publikationen.bibliothek.kit.edu/1000193211).
 
 * **Master Thesis** — Grade: 1.0  
   *Controller Hardware-in-the-Loop and Power Hardware-in-the-Loop Testing of a Virtual Synchronous Machine for Asynchronously Connected Grids*  
