@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Felix Wald"
 title_separator          : "-"
 name                     : &name "Felix Wald"
-description              : &description "Personal website of Felix Wald, Dr.-Ing. in Electrical Engineering at KIT. Research on Solid-State Transformers, asynchronous grid connections, and power system integration of inverter-based resources."
+description              : &description "Personal website and online CV of Felix Wald, an R&D Engineer in System Design at Hitachi Energy with interests in grid-forming technology, inverter-based resources, and modern power systems."
 url                      : https://felixwald.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "felixwald/felixwald.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "IEEE_Portrait_pic.png"
   name             : "Felix Wald"
   pronouns         : # example: "she/her"  
-  bio              : "Electrical Engineering · KIT" # Dr.-Ing. pending thesis publication
+  bio              : "R&D HVDC System Design - Hitachi Energy" # Dr.-Ing. pending thesis publication
   location         : "Karlsruhe, Germany"
-  employer         : "Karlsruhe Institute of Technology"
+  employer         : "Hitachi Energy"
   uri              : # "https://felixwald.github.io"
-  email            : "felix.wald@kit.edu" 
+  email            : # "felix.wald@kit.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
