@@ -11,25 +11,24 @@ redirect_from:
 
 ## Profile
 
-Felix Wald is an R&D Engineer in System Design at Hitachi Energy with a background in power-system research. His main interests include grid-forming technology, inverter-based resources, and the system-level design of resilient low-carbon grids.
+Felix Wald is a research associate and PhD candidate at KIT working on future power systems, inverter-based resources, and the role of solid-state transformers in converter-dominated grids.
 
-## Current role
+## Work experience
 
 - **R&D Engineer in System Design**, Hitachi Energy
-- Focused on system design questions in modern power systems
-- Particular interest in grid-forming technology and inverter-based resources
+- **Dates:** 01.06.2026 - present
 
-## Previous role
-
-- **Associate Researcher and PhD Candidate**, Karlsruhe Institute of Technology (KIT)
-- Worked on future power systems, inverter-based resources, and solid-state transformers
+- **Research Associate and PhD Candidate**, Karlsruhe Institute of Technology (KIT)
+- **Research group:** [Real-time Systems for Energy Technologies](https://www.itep.kit.edu/rtset/english/index.php)
+- **Location:** Karlsruhe, Germany
+- **End date:** 31.05.2026
 
 ## Research interests
 
-- Grid-forming technology
-- Inverter-based resources in renewable-rich grids
-- Power-system dynamics and system design
-- Modeling and analysis workflows for energy systems
+- Power-system dynamics in renewable-rich grids
+- Integration of inverter-based resources
+- Solid-state transformers for grid applications
+- Modeling, simulation, and analysis workflows for energy systems
 
 ## External profiles
 
@@ -60,4 +59,4 @@ Recent talks, lectures, and teaching materials can be shared on request.
 
 ## Contact
 
-Please get in touch through [LinkedIn](https://www.linkedin.com/in/felixwald/).
+Please get in touch via [email](mailto:felix.wald@kit.edu) or through [LinkedIn](https://www.linkedin.com/in/felixwald/).
