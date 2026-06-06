@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Felix Wald"
 title_separator          : "-"
 name                     : &name "Felix Wald"
-description              : &description "Personal website and online CV of Felix Wald, a research associate and PhD candidate at KIT working on future power systems, inverter-based resources, and solid-state transformers."
+description              : &description "Personal website and online CV of Felix Wald, an R&D Engineer in System Design at Hitachi Energy with interests in grid-forming technology, inverter-based resources, and modern power systems."
 url                      : "https://felixwald.github.io"
 baseurl                  : ""
 repository               : "felixwald/felixwald.github.io"
@@ -20,11 +20,11 @@ author:
   avatar           : "profile.png"
   name             : "Felix Wald"
   pronouns         :
-  bio              : "Research Associate and PhD Candidate in power systems"
+  bio              : "R&D Engineer in System Design focused on grid-forming technology"
   location         : "Karlsruhe, Germany"
-  employer         : "Karlsruhe Institute of Technology"
-  uri              : "https://www.itep.kit.edu/rtset/english/index.php"
-  email            : "felix.wald@kit.edu"
+  employer         : "Hitachi Energy"
+  uri              : "https://www.hitachienergy.com"
+  email            :
 
   arxiv            :
   googlescholar    : "https://scholar.google.com/citations?user=N-l6y4MAAAAJ&hl=en"

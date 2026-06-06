@@ -7,20 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-Felix Wald is a research associate and PhD candidate at the Karlsruhe Institute of Technology (KIT), Germany. His work focuses on future power systems with high shares of renewable generation, inverter-based resources, and the grid integration of solid-state transformers.
+Felix Wald is an R&D Engineer in System Design at Hitachi Energy. His current work centers on system-level questions in modern power systems, with a particular interest in grid-forming technology and the role of inverter-based resources in reliable, low-carbon grids.
 
-He is part of the [Real-time Systems for Energy Technologies](https://www.itep.kit.edu/rtset/english/index.php) group at KIT's Institute for Technical Physics, where he works on control-oriented modeling, system-level analysis, and practical questions around resilient converter-dominated grids.
+His background combines academic research and engineering work in converter-dominated power systems, control-oriented modeling, and the integration of new grid technologies.
+
+## Previous academic role
+
+Before joining Hitachi Energy, Felix worked as an Associate Researcher and PhD candidate at the Karlsruhe Institute of Technology (KIT), where he focused on future power systems, inverter-based resources, and solid-state transformers.
 
 ## Focus areas
 
-- Future power systems with high renewable penetration
-- Inverter-based resources and grid-forming behavior
-- Solid-state transformers in power-system applications
-- Reproducible engineering workflows for simulation and analysis
+- Grid-forming technology and converter-dominated grids
+- Inverter-based resources in renewable-rich power systems
+- System-level design questions for resilient energy systems
+- Modeling and analysis of emerging grid technologies
 
 ## Open to
 
-Felix is open to research collaborations, technical exchange, invited talks, and conversations with academic and industrial partners working on power-system transformation.
+Felix is open to technical exchange and conversations with academic and industrial partners working on power-system transformation.
 
 ## External profiles
 
