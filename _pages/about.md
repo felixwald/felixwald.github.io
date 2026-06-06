@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Felix Wald is an R&D Engineer in System Design at Hitachi Energy. His current work centers on system-level questions in modern power systems, with a particular interest in grid-forming technology and the role of inverter-based resources in reliable, low-carbon grids.
+Hi! I am Felix Wald, an R&D Engineer in System Design at Hitachi Energy. My current work centers on system-level questions in modern power systems, with a particular interest in grid-forming technology and the role of inverter-based resources in reliable, low-carbon grids.
 
 His background combines academic research and engineering work in converter-dominated power systems, control-oriented modeling, and the integration of new grid technologies.
 
