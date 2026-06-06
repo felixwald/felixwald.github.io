@@ -48,6 +48,9 @@ Theses
 Work Experience
 ======
 
+* **R&D Engineer - HVDC System Design** . [Hitachi Energy](hitachienergy.com), 06/2026 - present
+  * Grid-forming and MTDC grids
+
 * **Chapter Lead** · [CIGRE Working Group B4.91](https://www.cigre.org/) — Power electronics-based transformer technology, design, grid integration and services provision to the distribution grid, 02/2024 – present
   * Leading the team for the chapter on SST control concepts
 
@@ -55,7 +58,7 @@ Work Experience
   * Leading the team for the chapter on SST services for distribution grids
   * Coordinating contributions and international collaboration
 
-* **Research Associate — PhD in Electrical Engineering** · [Institute for Technical Physics, KIT](https://www.itep.kit.edu/rtset/), Karlsruhe, 02/2022 – present
+* **Research Associate — PhD in Electrical Engineering** · [Institute for Technical Physics, KIT](https://www.itep.kit.edu/rtset/), Karlsruhe, 02/2022 – 05/2026
   * Technical and economic analysis of Solid State Transformers
   * Responsible for Power Hardware-in-the-Loop real-time operations
   * Guidance of student assistants in projects for converter controls and simulation
