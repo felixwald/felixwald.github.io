@@ -1,30 +1,19 @@
 ---
 permalink: /
-title: "About"
+title: "Felix Wald — R&D HVDC System Design at Hitachi Energy"
+excerpt: "Personal website of Felix Wald, R&D Engineer at Hitachi Energy in HVDC System Desing and a PhD (Dr.-Ing.) in Electrical Engineering from KIT."
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I am Felix Wald, an R&D Engineer in System Design at Hitachi Energy. My current work centers on system-level questions in modern power systems, with a particular interest in grid-forming technology and the role of inverter-based resources in reliable, low-carbon grids.
-
-His background combines academic research and engineering work in converter-dominated power systems, control-oriented modeling, and the integration of new grid technologies.
+Hi! I am Felix Wald, an R&D Engineer in System Design at Hitachi Energy. My current work centers on system-level questions in HVDC converter stations, with a particular interest in grid-forming technology.
 
 ## Previous academic role
 
-Before joining Hitachi Energy, Felix worked as an Associate Researcher and PhD candidate at the Karlsruhe Institute of Technology (KIT), where he focused on future power systems, inverter-based resources, and solid-state transformers.
+Before joining Hitachi Energy, I worked as an Associate Researcher and completed my PhD (Dr.-Ing.) at the Karlsruhe Institute of Technology (KIT), where he focused on future power systems, inverter-based resources, and solid-state transformers.
 
-## Focus areas
-
-- Grid-forming technology and converter-dominated grids
-- Inverter-based resources in renewable-rich power systems
-- System-level design questions for resilient energy systems
-- Modeling and analysis of emerging grid technologies
-
-## Open to
-
-Felix is open to technical exchange and conversations with academic and industrial partners working on power-system transformation.
 
 ## External profiles
 
